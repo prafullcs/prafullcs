@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prafull Chandra Singh</h1>
-<h3 align="center">A passionate big Data Analytics from India</h3>
+<h3 align="center">A passionate about big Data Analytics </h3>
 
 ![Business-Data-Analyst-1024x683](https://github.com/user-attachments/assets/19d6874b-f659-4947-9885-3f06aaeb944c)
 
