@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prafull Chandra Singh</h1>
 <h3 align="center">A passionate big Data Analytics from India</h3>
-<https://www.fsm.ac.in/blog/wp-content/uploads/2024/01/Business-Data-Analyst-1024x683.jpg>
+
+![Business-Data-Analyst-1024x683](https://github.com/user-attachments/assets/19d6874b-f659-4947-9885-3f06aaeb944c)
 
 - 🔭 I’m currently working on [Detection of Typosquatting Domain Names using  Deep Learning.](https://github.com/prafullcs/Typosquatting-.git)
 
